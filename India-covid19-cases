@@ -1,261 +1,263 @@
-[{
-		"State": "Andhra Pradesh",
-		"Indian National": 86,
-		"Total": 86,
-		"lat": 11.7401,
-		"long": 92.6586,
-		"recovery": 1,
-		"deaths": 1
-	},
-	{
-		"State": "Andaman and Nicobar Islands",
-		"Indian National": 10,
-		"Total": 10,
-		"lat": 15.9129,
-		"long": 79.74,
-		"recovery": 0,
-		"deaths": 0
-	},
-	{
-		"State": "Assam",
-		"Indian National": 1,
-		"Total": 1,
-		"lat": 26.4073841,
-		"long": 93.2551303,
-		"recovery": 0,
-		"deaths": 0
-	}, {
-		"State": "Bihar",
-		"Indian National": 23,
-		"Total": 23,
-		"lat": 25.0961,
-		"long": 85.3131,
-		"recovery": 0,
-		"deaths": 1
-	},
-	{
-		"State": "Chandigarh",
-		"Indian National": 16,
-		"Total": 16,
-		"lat": 30.7333,
-		"long": 76.7794,
-		"recovery": 0,
-		"deaths": 0
-	},
-	{
-		"State": "Chhattisgarh",
-		"Indian National": 9,
-		"Total": 9,
-		"lat": 21.2787,
-		"long": 81.8661,
-		"recovery": 2,
-		"deaths": 0
-	},
-	{
-		"State": "Delhi",
-		"Indian National": 152,
-		"Total": 152,
-		"lat": 28.7041,
-		"long": 77.1025,
-		"recovery": 6,
-		"deaths": 2
-	},
-	{
-		"State": "Goa",
-		"Indian National": 5,
-		"Total": 5,
-		"lat": 15.2993,
-		"long": 74.124,
-		"recovery": 0,
-		"deaths": 0
-	},
-	{
-		"State": "Gujarat",
-		"Indian National": 82,
-		"Total": 82,
-		"lat": 22.2587,
-		"long": 71.1924,
-		"recovery": 5,
-		"deaths": 6
-	},
-	{
-		"State": "Haryana",
-		"Indian National": 43,
-		"Total": 43,
-		"lat": 29.0588,
-		"long": 76.0856,
-		"recovery": 21,
-		"deaths": 0
-	},
-	{
-		"State": "Himachal Pradesh",
-		"Indian National": 3,
-		"Total": 3,
-		"lat": 31.1048,
-		"long": 77.1734,
-		"recovery": 0,
-		"deaths": 1
-	},
-	{
-		"State": "Union Teritorry of Jammu and Kashmir",
-		"Indian National": 62,
-		"Total": 62,
-		"lat": 33.7782,
-		"long": 76.5762,
-		"recovery": 2,
-		"deaths": 2
-	},
-	{
-		"State": "Jharkhand",
-		"Indian National": 1,
-		"Total": 1,
-		"lat": 23.3431425,
-		"long": 85.1812,
-		"recovery": 0,
-		"deaths": 0
-	},
-	{
-		"State": "Karnataka",
-		"Indian National": 110,
-		"Total": 110,
-		"lat": 15.3173,
-		"long": 75.7139,
-		"recovery": 9,
-		"deaths": 3
-	},
-	{
-		"State": "Kerala",
-		"Indian National": 265,
-		"Total": 265,
-		"lat": 10.8505,
-		"long": 76.2711,
-		"recovery": 25,
-		"deaths": 2
-	},
-	{
-		"State": "Ladakh",
-		"Indian National": 13,
-		"Total": 13,
-		"lat": 34.1525,
-		"long": 77.5771,
-		"recovery": 3,
-		"deaths": 0
-	},
-	{
-		"State": "Madhya Pradesh",
-		"Indian National": 99,
-		"Total": 99,
-		"lat": 22.9734,
-		"long": 78.6569,
-		"recovery": 0,
-		"deaths": 6
-	},
-	{
-		"State": "Maharashtra",
-		"Indian National": 335,
-		"Total": 335,
-		"lat": 19.7515,
-		"long": 75.7139,
-		"recovery": 42,
-		"deaths": 13
-	},
-	{
-		"State": "Manipur",
-		"Indian National": 1,
-		"Total": 1,
-		"lat": 24.6637,
-		"long": 93.9063,
-		"recovery": 0,
-		"deaths": 0
-	},
-	{
-		"State": "Mizoram",
-		"Indian National": 1,
-		"Total": 1,
-		"lat": 23.1645,
-		"long": 92.9376,
-		"recovery": 0,
-		"deaths": 0
-	},
-	{
-		"State": "Odisha",
-		"Indian National": 4,
-		"Total": 4,
-		"lat": 20.9517,
-		"long": 85.0985,
-		"recovery": 0,
-		"deaths": 0
-	},
-	{
-		"State": "Puducherry",
-		"Indian National": 3,
-		"Total": 3,
-		"lat": 11.9416,
-		"long": 79.8083,
-		"recovery": 1,
-		"deaths": 0
-	},
-	{
-		"State": "Punjab",
-		"Indian National": 46,
-		"Total": 46,
-		"lat": 31.1471,
-		"long": 75.3412,
-		"recovery": 1,
-		"deaths": 4
-	},
-	{
-		"State": "Rajasthan",
-		"Indian National": 108,
-		"Total": 108,
-		"lat": 27.0328,
-		"long": 74.2179,
-		"recovery": 3,
-		"deaths": 0
-	},
-	{
-		"State": "Tamil Nadu",
-		"Indian National": 234,
-		"Total": 234,
-		"lat": 11.1271,
-		"long": 78.6569,
-		"recovery": 6,
-		"deaths": 1
-	},
-	{
-		"State": "Telengana",
-		"Indian National": 96,
-		"Total": 96,
-		"lat": 18.1124,
-		"long": 79.0193,
-		"recovery": 1,
-		"deaths": 3
-	},
-	{
-		"State": "Uttarakhand",
-		"Indian National": 7,
-		"Total": 7,
-		"lat": 30.06888,
-		"long": 79.0193,
-		"recovery": 2,
-		"deaths": 0
-	},
-	{
-		"State": "Uttar Pradesh",
-		"Indian National": 113,
-		"Total": 113,
-		"lat": 26.8467,
-		"long": 80.9462,
-		"recovery": 14,
-		"deaths": 2
-	},
-	{
-		"State": "West Bengal",
-		"Indian National": 37,
-		"Total": 37,
-		"lat": 22.9868,
-		"long": 87.855,
-		"recovery": 6,
-		"deaths": 3
-	}
+[
+  {
+    "State": "Andhra Pradesh",
+    "Indian National": 86,
+    "Total": 86,
+    "lat": 11.7401,
+    "long": 92.6586,
+    "recovery": 1,
+    "deaths": 1
+  },
+  {
+    "State": "Andaman and Nicobar Islands",
+    "Indian National": 10,
+    "Total": 10,
+    "lat": 15.9129,
+    "long": 79.74,
+    "recovery": 0,
+    "deaths": 0
+  },
+  {
+    "State": "Assam",
+    "Indian National": 1,
+    "Total": 1,
+    "lat": 26.4073841,
+    "long": 93.2551303,
+    "recovery": 0,
+    "deaths": 0
+  },
+  {
+    "State": "Bihar",
+    "Indian National": 23,
+    "Total": 23,
+    "lat": 25.0961,
+    "long": 85.3131,
+    "recovery": 0,
+    "deaths": 1
+  },
+  {
+    "State": "Chandigarh",
+    "Indian National": 16,
+    "Total": 16,
+    "lat": 30.7333,
+    "long": 76.7794,
+    "recovery": 0,
+    "deaths": 0
+  },
+  {
+    "State": "Chhattisgarh",
+    "Indian National": 9,
+    "Total": 9,
+    "lat": 21.2787,
+    "long": 81.8661,
+    "recovery": 2,
+    "deaths": 0
+  },
+  {
+    "State": "Delhi",
+    "Indian National": 152,
+    "Total": 152,
+    "lat": 28.7041,
+    "long": 77.1025,
+    "recovery": 6,
+    "deaths": 2
+  },
+  {
+    "State": "Goa",
+    "Indian National": 5,
+    "Total": 5,
+    "lat": 15.2993,
+    "long": 74.124,
+    "recovery": 0,
+    "deaths": 0
+  },
+  {
+    "State": "Gujarat",
+    "Indian National": 82,
+    "Total": 82,
+    "lat": 22.2587,
+    "long": 71.1924,
+    "recovery": 5,
+    "deaths": 6
+  },
+  {
+    "State": "Haryana",
+    "Indian National": 43,
+    "Total": 43,
+    "lat": 29.0588,
+    "long": 76.0856,
+    "recovery": 21,
+    "deaths": 0
+  },
+  {
+    "State": "Himachal Pradesh",
+    "Indian National": 3,
+    "Total": 3,
+    "lat": 31.1048,
+    "long": 77.1734,
+    "recovery": 0,
+    "deaths": 1
+  },
+  {
+    "State": "Union Teritorry of Jammu and Kashmir",
+    "Indian National": 62,
+    "Total": 62,
+    "lat": 33.7782,
+    "long": 76.5762,
+    "recovery": 2,
+    "deaths": 2
+  },
+  {
+    "State": "Jharkhand",
+    "Indian National": 1,
+    "Total": 1,
+    "lat": 23.3431425,
+    "long": 85.1812,
+    "recovery": 0,
+    "deaths": 0
+  },
+  {
+    "State": "Karnataka",
+    "Indian National": 110,
+    "Total": 110,
+    "lat": 15.3173,
+    "long": 75.7139,
+    "recovery": 9,
+    "deaths": 3
+  },
+  {
+    "State": "Kerala",
+    "Indian National": 265,
+    "Total": 265,
+    "lat": 10.8505,
+    "long": 76.2711,
+    "recovery": 25,
+    "deaths": 2
+  },
+  {
+    "State": "Ladakh",
+    "Indian National": 13,
+    "Total": 13,
+    "lat": 34.1525,
+    "long": 77.5771,
+    "recovery": 3,
+    "deaths": 0
+  },
+  {
+    "State": "Madhya Pradesh",
+    "Indian National": 99,
+    "Total": 99,
+    "lat": 22.9734,
+    "long": 78.6569,
+    "recovery": 0,
+    "deaths": 6
+  },
+  {
+    "State": "Maharashtra",
+    "Indian National": 335,
+    "Total": 335,
+    "lat": 19.7515,
+    "long": 75.7139,
+    "recovery": 42,
+    "deaths": 13
+  },
+  {
+    "State": "Manipur",
+    "Indian National": 1,
+    "Total": 1,
+    "lat": 24.6637,
+    "long": 93.9063,
+    "recovery": 0,
+    "deaths": 0
+  },
+  {
+    "State": "Mizoram",
+    "Indian National": 1,
+    "Total": 1,
+    "lat": 23.1645,
+    "long": 92.9376,
+    "recovery": 0,
+    "deaths": 0
+  },
+  {
+    "State": "Odisha",
+    "Indian National": 4,
+    "Total": 4,
+    "lat": 20.9517,
+    "long": 85.0985,
+    "recovery": 0,
+    "deaths": 0
+  },
+  {
+    "State": "Puducherry",
+    "Indian National": 3,
+    "Total": 3,
+    "lat": 11.9416,
+    "long": 79.8083,
+    "recovery": 1,
+    "deaths": 0
+  },
+  {
+    "State": "Punjab",
+    "Indian National": 46,
+    "Total": 46,
+    "lat": 31.1471,
+    "long": 75.3412,
+    "recovery": 1,
+    "deaths": 4
+  },
+  {
+    "State": "Rajasthan",
+    "Indian National": 108,
+    "Total": 108,
+    "lat": 27.0328,
+    "long": 74.2179,
+    "recovery": 3,
+    "deaths": 0
+  },
+  {
+    "State": "Tamil Nadu",
+    "Indian National": 234,
+    "Total": 234,
+    "lat": 11.1271,
+    "long": 78.6569,
+    "recovery": 6,
+    "deaths": 1
+  },
+  {
+    "State": "Telengana",
+    "Indian National": 96,
+    "Total": 96,
+    "lat": 18.1124,
+    "long": 79.0193,
+    "recovery": 1,
+    "deaths": 3
+  },
+  {
+    "State": "Uttarakhand",
+    "Indian National": 7,
+    "Total": 7,
+    "lat": 30.06888,
+    "long": 79.0193,
+    "recovery": 2,
+    "deaths": 0
+  },
+  {
+    "State": "Uttar Pradesh",
+    "Indian National": 113,
+    "Total": 113,
+    "lat": 26.8467,
+    "long": 80.9462,
+    "recovery": 14,
+    "deaths": 2
+  },
+  {
+    "State": "West Bengal",
+    "Indian National": 37,
+    "Total": 37,
+    "lat": 22.9868,
+    "long": 87.855,
+    "recovery": 6,
+    "deaths": 3
+  }
 ]
