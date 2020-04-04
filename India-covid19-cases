@@ -2,9 +2,9 @@
   {
     "State": "Andhra Pradesh",
     "Indian National": 132,
+    "lat": 15.9129,
+    "long": 79.74,
     "Total": 132,
-    "lat": 11.7401,
-    "long": 92.6586,
     "recovery": 1,
     "deaths": 1
   },
@@ -12,8 +12,8 @@
     "State": "Andaman and Nicobar Islands",
     "Indian National": 10,
     "Total": 10,
-    "lat": 15.9129,
-    "long": 79.74,
+    "lat": 11.7401,
+    "long": 92.6586,
     "recovery": 0,
     "deaths": 0
   },
