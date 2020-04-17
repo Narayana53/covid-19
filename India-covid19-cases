@@ -3,16 +3,16 @@
     "State": "Andhra Pradesh",
     "lat": 15.9129,
     "long": 79.74,
-    "Total": 381,
-    "recovery": 11,
-    "deaths": 6
+    "Total": 572,
+    "recovery": 36,
+    "deaths": 14
   },
   {
     "State": "Andaman and Nicobar Islands",
     "Total": 11,
     "lat": 11.7401,
     "long": 92.6586,
-    "recovery": 0,
+    "recovery": 10,
     "deaths": 0
   },
     {
@@ -26,131 +26,131 @@
   
   {
     "State": "Assam",
-    "Total": 29,
+    "Total": 35,
     "lat": 26.4073841,
     "long": 93.2551303,
-    "recovery": 0,
+    "recovery": 5,
     "deaths": 1
   },
   {
     "State": "Bihar",
-    "Total": 60,
+    "Total": 83,
     "lat": 25.0961,
     "long": 85.3131,
-    "recovery": 0,
+    "recovery": 37,
     "deaths": 1
   },
   {
     "State": "Chandigarh",
-    "Total": 18,
+    "Total": 21,
     "lat": 30.7333,
     "long": 76.7794,
-    "recovery": 7,
-    "deaths": 0
-  },
-  {
-    "State": "Chhattisgarh",
-    "Total": 18,
-    "lat": 21.2787,
-    "long": 81.8661,
     "recovery": 9,
     "deaths": 0
   },
   {
+    "State": "Chhattisgarh",
+    "Total": 36,
+    "lat": 21.2787,
+    "long": 81.8661,
+    "recovery": 23,
+    "deaths": 0
+  },
+  {
     "State": "Delhi",
-    "Total": 903,
+    "Total": 1640,
     "lat": 28.7041,
     "long": 77.1025,
-    "recovery": 25,
-    "deaths": 14
+    "recovery": 51,
+    "deaths": 38
   },
   {
     "State": "Goa",
     "Total": 7,
     "lat": 15.2993,
     "long": 74.124,
-    "recovery": 1,
+    "recovery": 6,
     "deaths": 0
   },
   {
     "State": "Gujarat",
-    "Total": 308,
+    "Total": 1021,
     "lat": 22.2587,
     "long": 71.1924,
-    "recovery": 31,
-    "deaths": 19
+    "recovery": 74,
+    "deaths": 38
   },
   {
     "State": "Haryana",
-    "Total": 177,
+    "Total": 205,
     "lat": 29.0588,
     "long": 76.0856,
-    "recovery": 29,
+    "recovery": 43,
     "deaths": 3
   },
   {
     "State": "Himachal Pradesh",
-    "Total": 28,
+    "Total": 35,
     "lat": 31.1048,
     "long": 77.1734,
-    "recovery": 6,
+    "recovery": 16,
     "deaths": 1
   },
   {
     "State": "Union Teritorry of Jammu and Kashmir",
-    "Total": 207,
+    "Total": 314,
     "lat": 33.7782,
     "long": 76.5762,
-    "recovery": 6,
+    "recovery": 38,
     "deaths": 4
   },
   {
     "State": "Jharkhand",
-    "Total": 17,    
+    "Total": 29,    
     "lat": 23.3431425,
     "long": 85.1812,
     "recovery": 0,
-    "deaths": 1
-  },
-  {
-    "State": "Karnataka",
-    "Total": 214,
-    "lat": 15.3173,
-    "long": 75.7139,
-    "recovery": 37,
-    "deaths": 6
-  },
-  {
-    "State": "Kerala",
-    "Total": 364,
-    "lat": 10.8505,
-    "long": 76.2711,
-    "recovery": 123,
     "deaths": 2
   },
   {
+    "State": "Karnataka",
+    "Total": 353,
+    "lat": 15.3173,
+    "long": 75.7139,
+    "recovery": 82,
+    "deaths": 13
+  },
+  {
+    "State": "Kerala",
+    "Total": 395,
+    "lat": 10.8505,
+    "long": 76.2711,
+    "recovery": 245,
+    "deaths": 3
+  },
+  {
     "State": "Ladakh",
-    "Total": 15,
+    "Total": 18,
     "lat": 34.1525,
     "long": 77.5771,
-    "recovery": 10,
+    "recovery": 14,
     "deaths": 0
   },
   {
     "State": "Madhya Pradesh",
-    "Total": 443,
+    "Total": 1308,
     "lat": 22.9734,
     "long": 78.6569,
-    "recovery": 0,
-    "deaths": 33
+    "recovery": 65,
+    "deaths": 57
   },
   {
     "State": "Maharashtra",
-    "Total": 1574,
+    "Total": 3205,
     "lat": 19.7515,
     "long": 75.7139,
-    "recovery": 188,
-    "deaths": 110
+    "recovery": 300,
+    "deaths": 194
   },
   {
     "State": "Manipur",
@@ -159,6 +159,14 @@
     "long": 93.9063,
     "recovery": 1,
     "deaths": 0
+  },
+  {
+    "State": "Meghalaya",
+    "Total": 9,
+    "lat": 23.1645,
+    "long": 92.9376,
+    "recovery": 0,
+    "deaths": 1
   },
   {
     "State": "Mizoram",
@@ -170,10 +178,10 @@
   },
   {
     "State": "Odisha",
-    "Total": 48,
+    "Total": 60,
     "lat": 20.9517,
     "long": 85.0985,
-    "recovery": 2,
+    "recovery": 19,
     "deaths": 1
   },
   {
@@ -186,66 +194,66 @@
   },
   {
     "State": "Punjab",
-    "Total": 132,
+    "Total": 186,
     "lat": 31.1471,
     "long": 75.3412,
-    "recovery": 5,
-    "deaths": 11
+    "recovery": 27,
+    "deaths": 13
   },
   {
     "State": "Rajasthan",
-    "Total": 553,
+    "Total": 1131,
     "lat": 27.0328,
     "long": 74.2179,
-    "recovery": 21,
-    "deaths": 3
+    "recovery": 164,
+    "deaths": 11
   },
   {
     "State": "Tamil Nadu",
-    "Total": 911,
+    "Total": 1267,
     "lat": 11.1271,
     "long": 78.6569,
-    "recovery": 44,
-    "deaths": 8
+    "recovery": 180,
+    "deaths": 15
   },
   {
     "State": "Telengana",
-    "Total": 504,
+    "Total": 743,
     "lat": 18.1124,
     "long": 79.0193,
-    "recovery": 43,
-    "deaths": 9
+    "recovery": 186,
+    "deaths": 18
   },
   {
     "State": "Tripura",
     "Total": 2,
     "lat": 0,
     "long": 0,
-    "recovery": 0,
+    "recovery": 1,
     "deaths": 0
   },
   {
     "State": "Uttarakhand",
-    "Total": 35,
+    "Total": 37,
     "lat": 30.06888,
     "long": 79.0193,
-    "recovery": 5,
+    "recovery": 9,
     "deaths": 0
   },
   {
     "State": "Uttar Pradesh",
-    "Total": 433,
+    "Total": 846,
     "lat": 26.8467,
     "long": 80.9462,
-    "recovery": 32,
-    "deaths": 4
+    "recovery": 74,
+    "deaths": 14
   },
   {
     "State": "West Bengal",
-    "Total": 126,
+    "Total": 255,
     "lat": 22.9868,
     "long": 87.855,
-    "recovery": 16,
-    "deaths": 5
+    "recovery": 51,
+    "deaths": 10
   }
 ]
