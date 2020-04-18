@@ -9,10 +9,10 @@
   },
   {
     "State": "Andaman and Nicobar Islands",
-    "Total": 11,
+    "Total": 12,
     "lat": 11.7401,
     "long": 92.6586,
-    "recovery": 10,
+    "recovery": 11,
     "deaths": 0
   },
     {
@@ -58,11 +58,11 @@
   },
   {
     "State": "Delhi",
-    "Total": 1640,
+    "Total": 1707,
     "lat": 28.7041,
     "long": 77.1025,
-    "recovery": 51,
-    "deaths": 38
+    "recovery": 72,
+    "deaths": 42
   },
   {
     "State": "Goa",
@@ -74,15 +74,15 @@
   },
   {
     "State": "Gujarat",
-    "Total": 1021,
+    "Total": 1099,
     "lat": 22.2587,
     "long": 71.1924,
-    "recovery": 74,
-    "deaths": 38
+    "recovery": 86,
+    "deaths": 41
   },
   {
     "State": "Haryana",
-    "Total": 205,
+    "Total": 225,
     "lat": 29.0588,
     "long": 76.0856,
     "recovery": 43,
@@ -90,7 +90,7 @@
   },
   {
     "State": "Himachal Pradesh",
-    "Total": 35,
+    "Total": 36,
     "lat": 31.1048,
     "long": 77.1734,
     "recovery": 16,
@@ -98,15 +98,15 @@
   },
   {
     "State": "Union Teritorry of Jammu and Kashmir",
-    "Total": 314,
+    "Total": 328,
     "lat": 33.7782,
     "long": 76.5762,
-    "recovery": 38,
-    "deaths": 4
+    "recovery": 42,
+    "deaths": 5
   },
   {
     "State": "Jharkhand",
-    "Total": 29,    
+    "Total": 33,    
     "lat": 23.3431425,
     "long": 85.1812,
     "recovery": 0,
@@ -114,18 +114,18 @@
   },
   {
     "State": "Karnataka",
-    "Total": 353,
+    "Total": 359,
     "lat": 15.3173,
     "long": 75.7139,
-    "recovery": 82,
+    "recovery": 89,
     "deaths": 13
   },
   {
     "State": "Kerala",
-    "Total": 395,
+    "Total": 396,
     "lat": 10.8505,
     "long": 76.2711,
-    "recovery": 245,
+    "recovery": 255,
     "deaths": 3
   },
   {
@@ -138,10 +138,10 @@
   },
   {
     "State": "Madhya Pradesh",
-    "Total": 1308,
+    "Total": 1310,
     "lat": 22.9734,
     "long": 78.6569,
-    "recovery": 65,
+    "recovery": 69,
     "deaths": 57
   },
   {
