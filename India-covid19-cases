@@ -255,5 +255,21 @@
     "long": 87.855,
     "recovery": 73,
     "deaths": 12
+  },
+  {
+    "State": "Nagaland",
+    "Total": 0,
+    "lat": 22.9868,
+    "long": 87.855,
+    "recovery": 0,
+    "deaths": 0
+  },
+  {
+    "State": "Sikkim",
+    "Total": 0,
+    "lat": 22.9868,
+    "long": 87.855,
+    "recovery": 0,
+    "deaths": 0
   }
 ]
